@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni00thomgoog_0067.png"; bbox 0 0 2246 3485; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 955 1565 1264 1572">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 955 1565 1264 1572">
+     <span class='ocr_line' id='line_1_1' title="bbox 955 1565 1264 1572; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 955 1565 1264 1572; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 531 1668 1683 1728">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 531 1668 1683 1728">
+     <span class='ocr_line' id='line_1_2' title="bbox 531 1668 1683 1728; baseline 0.003 -12"><span class='ocrx_word' id='word_1_2' title='bbox 531 1668 715 1718; x_wconf 72' lang='grc'><strong>61519.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 751 1695 813 1706; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 846 1670 1032 1728; x_wconf 65' lang='lat' dir='ltr'>mals,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1073 1669 1421 1719; x_wconf 80' lang='lat' dir='ltr'>IMPRIMERIE</span> <span class='ocrx_word' id='word_1_6' title='bbox 1455 1670 1683 1720; x_wconf 82' lang='lat' dir='ltr'><strong>LAHURE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 809 1787 1411 1847">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 809 1787 1411 1847">
+     <span class='ocr_line' id='line_1_3' title="bbox 809 1787 1411 1847; baseline -0.002 -11"><span class='ocrx_word' id='word_1_7' title='bbox 809 1788 855 1845; x_wconf 76' lang='lat'>9,</span> <span class='ocrx_word' id='word_1_8' title='bbox 893 1802 983 1836; x_wconf 84' lang='lat' dir='ltr'>rue</span> <span class='ocrx_word' id='word_1_9' title='bbox 1020 1787 1081 1836; x_wconf 84' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_10' title='bbox 1116 1787 1341 1847; x_wconf 65' lang='lat' dir='ltr'>Pleume»,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1381 1788 1411 1835; x_wconf 89' lang='lat'>9</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1076 1924 1255 1933">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1076 1924 1255 1933">
+     <span class='ocr_line' id='line_1_4' title="bbox 1076 1924 1255 1933; baseline 0 1552"><span class='ocrx_word' id='word_1_12' title='bbox 1076 1924 1255 1933; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
